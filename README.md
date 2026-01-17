@@ -24,8 +24,10 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 
 🛠️ Technologies Used
 
-- **HTML5** – Structure and content  
-- **CSS3** – Styling and layout  
+- **HTML5** – Structure and content
+    
+- **CSS3** – Styling and layout
+   
 - **Responsive Design** – Works on mobile, tablet, and desktop screens  
 
   ✨ Features
