@@ -16,4 +16,10 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 - Practice frontend development and responsive design  
 - Provide easy access to my contact information  
 
+🛠️ Technologies Used
+
+- **HTML5** – Structure and content  
+- **CSS3** – Styling and layout  
+- **Responsive Design** – Works on mobile, tablet, and desktop screens  
+
   
