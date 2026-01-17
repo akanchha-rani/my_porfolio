@@ -9,5 +9,4 @@ This portfolio website is designed to serve as a **central hub** for my online p
 
 The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiveness, and user-friendly design.
 
-
-
+ 
