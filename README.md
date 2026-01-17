@@ -22,4 +22,12 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 - **CSS3** – Styling and layout  
 - **Responsive Design** – Works on mobile, tablet, and desktop screens  
 
-  
+  ✨ Features
+
+✔️ Clean and modern UI  
+✔️ Fully responsive design  
+✔️ About Me section  
+✔️ Skills overview  
+✔️ Projects showcase  
+✔️ Contact section  
+✔️ Easy navigation
