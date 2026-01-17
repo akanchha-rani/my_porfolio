@@ -50,6 +50,7 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 ## 📂 Project Structure
 
 my_porfolio/
+
 │
 ├── index.html # Main HTML file
 
