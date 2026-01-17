@@ -44,3 +44,12 @@ my_porfolio/
 │
 └── README.md # Project documentation
 
+🎨 Design Principles
+
+Simplicity: Focus on content clarity
+
+Consistency: Unified color scheme and fonts
+
+Accessibility: Readable fonts and proper spacing
+
+Responsiveness: Works across all screen sizes
