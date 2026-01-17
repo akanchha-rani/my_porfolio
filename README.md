@@ -46,6 +46,7 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 
 ✔️ Easy navigation
 
+
 📂 Project Structure
 
 my_porfolio/
@@ -61,6 +62,7 @@ my_porfolio/
 │ └── icons/ # Icons and logos
 
 └── README.md # Project documentation
+
 
 🎨 Design Principles
 
