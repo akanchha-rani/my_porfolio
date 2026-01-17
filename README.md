@@ -9,4 +9,11 @@ This portfolio website is designed to serve as a **central hub** for my online p
 
 The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiveness, and user-friendly design.
 
- 
+🎯 Objectives of the Project
+
+- Create a professional online presence  
+- Showcase my projects and technical skills  
+- Practice frontend development and responsive design  
+- Provide easy access to my contact information  
+
+  
