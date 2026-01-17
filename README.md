@@ -4,14 +4,14 @@ Welcome to my **Personal Portfolio Website**!
 This project represents my journey as a **Web Developer** and showcases my skills, projects, and professional information in a clean and responsive format.
 
 
-📌 Project Description
+## 📌 Project Description
 
 This portfolio website is designed to serve as a **central hub** for my online presence. It highlights my technical skills, completed projects, and contact details, allowing recruiters, collaborators, and peers to easily understand my profile.
 
 The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiveness, and user-friendly design.
 
 
-🎯 Objectives of the Project
+## 🎯 Objectives of the Project
 
 - Create a professional online presence
    
@@ -22,7 +22,7 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 - Provide easy access to my contact information
    
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML5** – Structure and content
     
@@ -30,7 +30,7 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
    
 - **Responsive Design** – Works on mobile, tablet, and desktop screens  
 
-✨ Features
+## ✨ Features
 
 ✔️ Clean and modern UI  
 
@@ -47,7 +47,7 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 ✔️ Easy navigation
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 my_porfolio/
 │
@@ -64,7 +64,7 @@ my_porfolio/
 └── README.md # Project documentation
 
 
-🎨 Design Principles
+## 🎨 Design Principles
 
 Simplicity: Focus on content clarity
 
@@ -74,7 +74,7 @@ Accessibility: Readable fonts and proper spacing
 
 Responsiveness: Works across all screen sizes
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Add JavaScript animations
 
