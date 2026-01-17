@@ -51,16 +51,15 @@ The website is built using **HTML5 and CSS3**, focusing on simplicity, responsiv
 
 my_porfolio/
 
-│
 ├── index.html # Main HTML file
 
 ├── style.css # Stylesheet
 
 ├── assets/
 
-│ ├── images/ # Images used in the website
+  ├── images/ # Images used in the website
 
-│ └── icons/ # Icons and logos
+  └── icons/ # Icons and logos
 
 └── README.md # Project documentation
 
